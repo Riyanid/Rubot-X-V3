@@ -62,7 +62,7 @@ global.pdana = '081511879987' //dana
 global.povo = '081511879987' //ovo
 global.pgopay = '081511879987' //gopay
 global.plinkaja = '081511879987' //link aja
-global.ppulsa = '081511879987' //telkomsel
+global.ppulsa = '-' //telkomsel
 global.ppulsa2 = '081511879987' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/RyanID'
 
@@ -143,7 +143,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘RUBOT-X MD ˘ฅ ꒱ ‧₊˚꒷�
 global.wm3 = '⫹⫺ RUBOT-X '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By RYANADA`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = '                「 RYANADA  あ」'
 
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'rubot x'
+global.stickauth = `By ©Ryanada`
 
 global.multiplier = 38 // The higher, The harder levelup
 
