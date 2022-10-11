@@ -11,7 +11,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
+• Owner tidak menerima save contact/Kalo cewe bisa d bicarakan lagi:v
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
@@ -36,7 +36,7 @@ ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
-  let teks = 'Pilih dibawah kak ! o(〃＾▽＾〃)o'
+  let teks = 'Pilih dibawah kak !'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
